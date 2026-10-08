@@ -3,6 +3,8 @@ lang: es
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
 
 website:
   title: "David Medina Núñez"
