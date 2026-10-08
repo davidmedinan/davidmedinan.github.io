@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "David Medina Núñez"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: cv.qmd
+        text: CV
+      - href: proyectos.qmd
+        text: Proyectos
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

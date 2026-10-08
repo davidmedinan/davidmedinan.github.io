@@ -1,0 +1,11 @@
+---
+title: "David Medina Núñez"
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/davidmedinan
+---
+
+Texto de presentación provisorio.
