@@ -1,3 +1,5 @@
+lang: es
+
 project:
   type: website
   output-dir: docs

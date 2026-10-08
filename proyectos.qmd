@@ -2,4 +2,40 @@
 title: "Proyectos"
 ---
 
-Proyectos (lo completamos más adelante).
+## Estimación del consumo de materia seca en rumiantes a partir de señales bioacústicas
+
+*Tesis de Maestría en Minería de Datos, UTN-FRP · En curso*
+
+En ganadería de precisión, conocer cuánto alimento consume cada animal es clave
+para el manejo productivo, pero medirlo directamente es costoso y difícil de
+escalar. Este proyecto explora el uso de registros de audio de la actividad
+alimentaria del ganado para estimar el consumo de materia seca mediante modelos de
+regresión. Incluye el preprocesamiento de las señales de audio, el análisis de
+espectrogramas y el desarrollo de arquitecturas de redes neuronales profundas
+(CNN y RNN), comparadas con modelos de aprendizaje automático clásicos.
+
+**Herramientas:** Python, PyTorch, Polars, Scikit-learn.
+
+## Sistema de Alertas Tempranas de abandono escolar
+
+*Ministerio de Educación de la Provincia de Santa Fe · Desde 2022*
+
+Diseño y desarrollo del marco estadístico para la detección del riesgo de abandono
+escolar. El modelo fue escalado e implementado a nivel poblacional, abarcando la
+totalidad de la matrícula de educación secundaria de la Provincia de Santa Fe.
+
+Como parte del sistema, se desarrollaron, ajustaron e implementaron algoritmos de
+aprendizaje automático para estimar la probabilidad de deserción escolar,
+incorporando técnicas de balanceo de datos para mitigar el sesgo estructural de las
+variables. Esto permitió optimizar la focalización de recursos y fundamentar
+intervenciones preventivas basadas en evidencia.
+
+## Arquitectura de datos educativos
+
+*Ministerio de Educación de la Provincia de Santa Fe*
+
+Migración y modelado de sistemas de información educativa distribuidos hacia
+esquemas unificados y eficientes, con el objetivo de optimizar las consultas
+analíticas y la construcción de tableros de Business Intelligence.
+
+**Herramientas:** SQL, PostgreSQL, Apache Hop, Qlik Sense, Power BI, Tableau.

@@ -1,1 +1,13 @@
 /* css styles */
+/* Texto justificado en los párrafos */
+main p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* En celulares, alineación a la izquierda para evitar espacios grandes */
+@media (max-width: 576px) {
+  main p {
+    text-align: left;
+  }
+}

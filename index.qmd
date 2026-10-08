@@ -1,11 +1,44 @@
 ---
-title: "David Medina Núñez"
+title: "David I. Medina Núñez"
+subtitle: "Data Scientist · Profesor en Matemática"
 about:
   template: trestles
+  # image: foto.jpg        # descomentá esta línea si agregás una foto a la carpeta
   links:
+    - icon: envelope
+      text: Email
+      href: mailto:davidmedinan@gmail.com
     - icon: github
       text: GitHub
       href: https://github.com/davidmedinan
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/TU-USUARIO
 ---
 
-Texto de presentación provisorio.
+Soy profesor en Matemática y trabajo en ciencia de datos en Santa Fe, Argentina.
+Desde 2022 me desempeño como Especialista en Minería de Datos y Modelado Estadístico
+en la Dirección General de Información y Evaluación Educativa del Ministerio de
+Educación de la Provincia de Santa Fe, donde participé en el diseño del Sistema de
+Alertas Tempranas para la detección del riesgo de abandono escolar, implementado
+sobre toda la matrícula de educación secundaria de la provincia.
+
+En paralelo, curso la Maestría en Minería de Datos en la Universidad Tecnológica
+Nacional, Facultad Regional Paraná. Mi tesis se ubica en el área de la ganadería de
+precisión: desarrollo modelos de aprendizaje profundo para estimar el consumo de
+materia seca en rumiantes a partir de señales bioacústicas. También curso la
+Licenciatura en Matemática Aplicada en la Universidad Nacional del Litoral.
+
+La docencia es la otra mitad de mi trabajo. Soy auxiliar docente en el Departamento
+de Matemáticas de la Facultad de Ingeniería Química (UNL) y profesor de Matemática
+en escuelas secundarias de la provincia. Me interesa especialmente el cruce entre la
+matemática, la estadística y el aprendizaje automático, y cómo los datos pueden
+ayudar a tomar mejores decisiones en políticas públicas.
+
+## Áreas de interés
+
+- Aprendizaje automático y aprendizaje profundo
+- Procesamiento de señales y bioacústica
+- Modelado estadístico
+- Ciencia de datos aplicada a políticas educativas
+- Enseñanza de la matemática

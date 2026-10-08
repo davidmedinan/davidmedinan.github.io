@@ -1,5 +1,195 @@
 ---
 title: "Curriculum Vitae"
+toc: true
+toc-title: "Secciones"
 ---
 
-Contenido del CV (lo completamos más adelante).
+<!-- Cuando tengas el PDF del CV, guardalo en la carpeta del sitio como cv.pdf y descomentá la línea siguiente -->
+<!-- [Descargar CV en PDF](cv.pdf){.btn .btn-outline-primary} -->
+
+## Formación académica
+
+**Maestría en Minería de Datos** · *En curso, desde 08/2023*\
+Universidad Tecnológica Nacional, Facultad Regional Paraná (UTN-FRP). Entre Ríos, Argentina.\
+Área de investigación: Ganadería de Precisión.\
+Tema de tesis: Aprendizaje automático y profundo para estimar el consumo de materia seca en rumiantes a partir de señales bioacústicas.
+
+**Profesor en Matemática** · *08/2016*\
+Facultad de Ciencias Exactas, Químicas y Naturales, Universidad Nacional de Misiones (UNaM). Misiones, Argentina.
+
+**Licenciatura en Matemática Aplicada** · *En curso (4.º año)*\
+Facultad de Ingeniería Química, Universidad Nacional del Litoral (UNL). Santa Fe, Argentina.
+
+**Técnico Superior en Electrotecnia** · *12/2002*\
+Colegio Politécnico Johannes Gutenberg. Asunción, Paraguay.
+
+### Diplomados
+
+**Diplomado Superior en Diversidad y Educación** · *12/2021*\
+Universidad de Ciencias Empresariales y Sociales (UCES). 600 horas reloj.
+
+**Diplomado Superior en Herramientas Didáctico-Pedagógicas para la implementación de las TIC en los procesos de enseñanza** · *12/2018*\
+Universidad de Ciencias Empresariales y Sociales (UCES). 600 horas reloj.
+
+## Experiencia profesional
+
+### Posiciones actuales
+
+**Especialista en Minería de Datos y Modelado Estadístico** · *Desde 09/2022*\
+Departamento de Estadística, Dirección General de Información y Evaluación Educativa.\
+Ministerio de Educación de la Provincia de Santa Fe.
+
+**Auxiliar Docente de Primera (Dedicación Simple)** · *Desde 03/2023*\
+Departamento de Matemáticas, Facultad de Ingeniería Química, UNL.\
+Cátedras: Cálculo I, Cálculo II, Álgebra Lineal.\
+Funciones: dictado de clases, elaboración y corrección de trabajos prácticos.
+
+**Profesor Titular de la materia Matemática Aplicada** · *Desde 02/2024*\
+Escuela de Educación Técnico Profesional N.º 647 "Dr. Pedro L. Funes" (E.E.T.P. N.º 647). Santa Fe.
+
+**Profesor Titular de la materia Matemática** · *Desde 02/2024*\
+Escuela de Enseñanza Media para Adultos N.º 1305 (E.E.M.P.A. N.º 1305).\
+Escuela de Enseñanza Media para Adultos N.º 1300 (E.E.M.P.A. N.º 1300).
+
+### Posiciones anteriores
+
+**Profesor Interino de Matemática** · *03/2018 – 02/2023*\
+Escuelas secundarias de la Provincia de Santa Fe.
+
+**Ayudante de Segunda (por concurso)** · *10/2015 – 06/2017*\
+Cátedras Matemática I y Matemática II, carreras de Analista en Sistemas de Computación y Licenciatura en Sistemas de Información.\
+Facultad de Ciencias Exactas, Químicas y Naturales, UNaM.
+
+**Docente colaborador del Curso de Ingreso, área Matemática** · *2014, 2016 y 2017*\
+Facultad de Ciencias Exactas, Químicas y Naturales, UNaM.
+
+**Tutor Par (ad honorem)** · *06/2014 – 12/2014*\
+Profesorado en Matemática y Profesorado en Física, FCEQyN, UNaM.
+
+**Adscripto Alumno (ad honorem, por concurso)** · *10/2013 – 05/2015*\
+Cátedras Álgebra Lineal (10/2013 – 10/2014), Análisis II (02/2014 – 02/2015) y Matemática/92 (05/2014 – 05/2015).\
+Facultad de Ciencias Exactas, Químicas y Naturales, UNaM.
+
+**Técnico en Automatización Industrial** · *12/2002 – 10/2006*\
+Departamento de Montaje e Ingeniería, Tecno Electric S.A. Asunción, Paraguay.
+
+## Cursos de posgrado
+
+Cursos aprobados en el marco de la Maestría en Minería de Datos (UTN-FRP).
+
+| Fecha | Curso | Carga horaria |
+|---|---|---|
+| 12/2025 | Redes Neuronales | 60 h |
+| 10/2025 | Minería de Texto | 60 h |
+| 07/2025 | Minería de Datos aplicada a la Ciencia y la Tecnología | 60 h |
+| 05/2025 | Enfoque Estadístico del Aprendizaje | 60 h |
+| 12/2024 | Minería de Datos aplicada a la Economía y las Finanzas | 60 h |
+| 09/2024 | Minería de Datos | 48 h |
+| 07/2024 | Análisis Inteligente de Datos | 48 h |
+| 04/2024 | Aprendizaje Automático | 60 h |
+| 12/2023 | Algoritmos y Estructuras de Datos | 60 h |
+| 10/2023 | Bases de Datos | 60 h |
+
+## Investigación y extensión
+
+### Proyectos de investigación
+
+**Enseñanza y desarrollo curricular en la universidad. Investigación-acción de y en las prácticas educativas de implementación de la nueva propuesta pedagógica del área, en los Profesorados en Biología, Matemática y Física de la FCEQyN** · *01/2014 – 12/2016*\
+Proyecto 16Q552, FCEQyN, UNaM. Directora: Mgter. María Claudia Giménez.\
+Integrante: talleres, elaboración de informes, desgrabación de entrevistas y discusión de material teórico.
+
+**Misiones en la frontera con Paraguay y Brasil. Procesos de territorialización y educación en la construcción del Estado Nación** · *01/2013 – 12/2014*\
+Facultad de Humanidades y Ciencias Sociales, UNaM. Directora: Dra. Emilce Beatriz Cammaratta. Codirectora: Mgter. María Claudia Giménez.\
+Integrante: recolección de datos de campo y elaboración de estadísticas.
+
+### Becas
+
+**Beca de la Secretaría de Investigación y Posgrado. Auxiliar de Investigación (alumno)** · *11/2013 – 07/2014*\
+Proyecto 16Q499 "Diseño e implementación de GUIs orientado al cálculo, para Octave". Director: Estanislao Juan Petryla.\
+FCEQyN, UNaM. Obtenida por concurso de antecedentes, con dos renovaciones.
+
+### Extensión
+
+**Pensar la escuela, compartir reflexiones, construir sentidos** · *05/2015 – 12/2015*\
+Proyecto ganador de la convocatoria del Programa de Fortalecimiento a las Actividades de Extensión (PROFAE), UNaM.\
+Integrante del equipo. Directora: Mgter. María Claudia Giménez.
+
+### Publicaciones
+
+Medina N., D.; Ivaniszyn, B.; Von Knobloch, Y.; Oudín, M. (2015). *Constitución de un grupo de investigación acción participativa*. Resumen en *Libro de resúmenes de las IX Jornadas Científico-Tecnológicas, FCEQyN*, p. 387. Posadas, Misiones. ISBN 978-950-766-085-6.
+
+## Congresos y reuniones científicas
+
+### Exposiciones
+
+**Constitución de un grupo de investigación acción participativa** · *10/2015*\
+IX Jornadas Científico-Tecnológicas, FCEQyN, UNaM. Posadas, Misiones. Coautor y expositor.
+
+**Nuestro proceso grupal. La perspectiva de un grupo participante** · *08/2015*\
+VIII Encuentro Nacional del Colectivo Argentino de Educadoras y Educadores que hacen Investigación desde la Escuela. Universidad Nacional de Jujuy. Coautor y expositor.
+
+**Significación del constructivismo para los egresados del Profesorado en Matemática de la FCEQyN** · *08/2013*\
+Cuarto Encuentro Provincial y Segundo Encuentro Regional de Investigación Educativa, REDINE, FCEQyN, UNaM. Coautor y expositor.
+
+### Asistencia
+
+**2nd Latin American Congress on Industrial and Applied Mathematics (LACIAM 2026)** · *01/2026*\
+Universidad Técnica Federico Santa María. Valparaíso, Chile.
+
+**Reunión Anual de la Unión Matemática Argentina (virtual)** · *09/2020*\
+Unión Matemática Argentina.
+
+**1.º Congreso Internacional de Educación** · *06/2019*\
+Ministerio de Educación de la Provincia de Santa Fe.
+
+**3.º Congreso Nacional de Educación** · *09/2018*\
+Santa Fe, Argentina.
+
+**Reunión Anual de la Unión Matemática Argentina** · *09/2015*\
+Unión Matemática Argentina. Santa Fe, Argentina.
+
+**Cuarto Encuentro Provincial y Segundo Encuentro Regional de Investigación Educativa** · *08/2013*\
+REDINE, FCEQyN, UNaM. Estudiante colaborador.
+
+## Formación complementaria
+
+::: {.callout-note collapse="true" title="Ver cursos y talleres"}
+
+**Con aprobación**
+
+- *Data Analytics*. CODERHOUSE, 2023. 60 h.
+- *SQL*. CODERHOUSE, 2023. 50 h - 13 semanas.
+- *Programación en Python*. Escuela de Ciencia y Tecnología, Universidad Nacional de San Martín (ECyT-UNSAM), 2021. 96 h.
+- *Alfabetización Digital*, Seminarios I, II y III. Ministerio de Educación de la Provincia de Santa Fe, 2021. 40 h cada uno.
+- *Reflexiones en torno al Álgebra y las Funciones y su enseñanza*. Programa Nacional de Formación Permanente "Nuestra Escuela", 2017. 60 h.
+- *Aplicación del software Mathematica como recurso didáctico para la enseñanza del cálculo*. FCEQyN, UNaM, 2013. 50 h.
+- *Inducción y Combinatoria*. FCEQyN, UNaM, 2012. 80 h.
+- *Recursos informáticos para el análisis estadístico: análisis estadístico con InfoStat*. Facultad de Ciencias Económicas, UNaM, 2010. 24 h.
+
+**Con asistencia**
+
+- *Programación con Python*. Centro Redes, Unidad Asociada al CONICET, 2021. 60 h.
+- Cursos breves en la Reunión Anual de la Unión Matemática Argentina, 2020: *Piedra, papel y probabilidades*; *Criterios para el diseño de buenos problemas que incluyen el uso de TIC*; *Cómo repartir cuando no hay suficiente*; *El teorema de los grafos perfectos*; *Soluciones viscosas*; *Sobre la enseñanza de la interpretación de textos matemáticos*.
+- Cursos breves en la Reunión Anual de la Unión Matemática Argentina, UNL, 2015: *Introducción a la lógica algebraica*; *Análisis isogeométrico*; *Introducción a los problemas inversos*.
+- *¿Qué son los grupos cooperativos de aprendizaje?*. FCEQyN, UNaM, 2012.
+
+:::
+
+## Habilidades técnicas
+
+| Área | Herramientas |
+|---|---|
+| Lenguajes | Python, SQL, R, MATLAB/Octave |
+| Python | Polars, Pandas, NumPy, Scikit-learn, XGBoost, PyTorch, Statsmodels, Matplotlib, Seaborn |
+| Bases de datos | PostgreSQL, MySQL, SQLAlchemy |
+| ETL | Apache Hop, Spoon (Pentaho), Tableau Prep Builder |
+| Visualización y BI | Qlik Sense Enterprise, Tableau, Power BI, Metabase |
+| Entornos y herramientas | Git, LaTeX, Quarto |
+
+## Idiomas
+
+Español (nativo) · Inglés (nivel inicial, A1)
+
+## Referencias
+
+Disponibles a pedido.
