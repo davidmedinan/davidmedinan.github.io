@@ -16,24 +16,43 @@ about:
     #   href: https://www.linkedin.com/in/TU-USUARIO
 ---
 
-Soy profesor en Matemática y trabajo en ciencia de datos en Santa Fe, Argentina.
-Desde 2022 me desempeño como Especialista en Minería de Datos y Modelado Estadístico
-en la Dirección General de Información y Evaluación Educativa del Ministerio de
-Educación de la Provincia de Santa Fe, donde participé en el diseño del Sistema de
-Alertas Tempranas para la detección del riesgo de abandono escolar, implementado
-sobre toda la matrícula de educación secundaria de la provincia.
+Profesor en Matemática y especialista en ciencia de datos, radicado en Santa Fe,
+Argentina. Mi trabajo se sitúa en la intersección entre la matemática, la
+estadística y el aprendizaje automático, con especial interés en el desarrollo de
+modelos que aporten evidencia rigurosa para la toma de decisiones.
 
-En paralelo, curso la Maestría en Minería de Datos en la Universidad Tecnológica
-Nacional, Facultad Regional Paraná. Mi tesis se ubica en el área de la ganadería de
-precisión: desarrollo modelos de aprendizaje profundo para estimar el consumo de
-materia seca en rumiantes a partir de señales bioacústicas. También curso la
-Licenciatura en Matemática Aplicada en la Universidad Nacional del Litoral.
+Desde 2022 me desempeño en la Dirección General de Información y Evaluación
+Educativa del Ministerio de Educación de la Provincia de Santa Fe, donde participé
+en el diseño y desarrollo del Sistema de Alertas Tempranas para la detección del
+riesgo de abandono escolar, un modelo implementado a escala poblacional sobre la
+totalidad de la matrícula de educación secundaria de la provincia.
 
-La docencia es la otra mitad de mi trabajo. Soy auxiliar docente en el Departamento
-de Matemáticas de la Facultad de Ingeniería Química (UNL) y profesor de Matemática
-en escuelas secundarias de la provincia. Me interesa especialmente el cruce entre la
-matemática, la estadística y el aprendizaje automático, y cómo los datos pueden
-ayudar a tomar mejores decisiones en políticas públicas.
+En el plano académico, curso la Maestría en Minería de Datos en la Universidad
+Tecnológica Nacional, Facultad Regional Paraná, con una tesis enmarcada en la
+ganadería de precisión: el desarrollo de arquitecturas de aprendizaje profundo para
+estimar el consumo de materia seca en rumiantes a partir de señales bioacústicas.
+Complemento esta formación con la Licenciatura en Matemática Aplicada en la
+Universidad Nacional del Litoral.
+
+La docencia constituye el otro eje de mi actividad. Me desempeño como auxiliar
+docente en el Departamento de Matemáticas de la Facultad de Ingeniería Química
+(UNL) y como profesor en escuelas de nivel secundario de la provincia, ámbitos en
+los que busco articular el rigor formal de la matemática con sus aplicaciones a
+problemas concretos.
+
+## Posiciones actuales
+
+**Especialista en Minería de Datos y Modelado Estadístico** · *Desde 09/2022*\
+Dirección General de Información y Evaluación Educativa, Ministerio de Educación de la Provincia de Santa Fe.
+
+**Auxiliar Docente de Primera (Dedicación Simple)** · *Desde 03/2023*\
+Departamento de Matemáticas, Facultad de Ingeniería Química, Universidad Nacional del Litoral.
+
+**Profesor Titular de la materia Matemática Aplicada** · *Desde 02/2024*\
+E.E.T.P. N.º 647 "Dr. Pedro L. Funes". Santa Fe.
+
+**Profesor Titular de la materia Matemática** · *Desde 02/2024*\
+E.E.M.P.A. N.º 1305 y E.E.M.P.A. N.º 1300. Santa Fe.
 
 ## Áreas de interés
 
@@ -42,3 +61,9 @@ ayudar a tomar mejores decisiones en políticas públicas.
 - Modelado estadístico
 - Ciencia de datos aplicada a políticas educativas
 - Enseñanza de la matemática
+
+:::: {.nav-paginas}
+::: {.siguiente}
+[Formación →](formacion.qmd)
+:::
+::::

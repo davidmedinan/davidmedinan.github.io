@@ -1,0 +1,70 @@
+---
+title: "Competencias"
+toc: true
+toc-title: "Secciones"
+---
+
+## Cursos de posgrado
+
+Cursos aprobados en el marco de la Maestría en Minería de Datos (UTN-FRP).
+
+| Fecha | Curso | Carga horaria |
+|---|---|---|
+| 12/2025 | Redes Neuronales | 60 h |
+| 10/2025 | Minería de Texto | 60 h |
+| 07/2025 | Minería de Datos aplicada a la Ciencia y la Tecnología | 60 h |
+| 05/2025 | Enfoque Estadístico del Aprendizaje | 60 h |
+| 12/2024 | Minería de Datos aplicada a la Economía y las Finanzas | 60 h |
+| 09/2024 | Minería de Datos | 48 h |
+| 07/2024 | Análisis Inteligente de Datos | 48 h |
+| 04/2024 | Aprendizaje Automático | 60 h |
+| 12/2023 | Algoritmos y Estructuras de Datos | 60 h |
+| 10/2023 | Bases de Datos | 60 h |
+
+## Habilidades técnicas
+
+| Área | Herramientas |
+|---|---|
+| Lenguajes | Python, SQL, R, MATLAB/Octave |
+| Python | Polars, Pandas, NumPy, Scikit-learn, XGBoost, PyTorch, Statsmodels, Matplotlib, Seaborn |
+| Bases de datos | PostgreSQL, MySQL, SQLAlchemy |
+| ETL | Apache Hop, Spoon (Pentaho), Tableau Prep Builder |
+| Visualización y BI | Qlik Sense Enterprise, Tableau, Power BI, Metabase |
+| Entornos y herramientas | Git, LaTeX, Quarto |
+
+## Idiomas
+
+Español (nativo) · Inglés (nivel inicial, A1)
+
+## Formación complementaria
+
+::: {.callout-note collapse="true" title="Ver cursos y talleres"}
+
+**Con aprobación**
+
+- *Data Analytics*. CODERHOUSE, 2023. 60 h.
+- *SQL*. CODERHOUSE, 2023. 50 h - 13 semanas.
+- *Programación en Python*. Escuela de Ciencia y Tecnología, Universidad Nacional de San Martín (ECyT-UNSAM), 2021. 96 h.
+- *Alfabetización Digital*, Seminarios I, II y III. Ministerio de Educación de la Provincia de Santa Fe, 2021. 40 h cada uno.
+- *Reflexiones en torno al Álgebra y las Funciones y su enseñanza*. Programa Nacional de Formación Permanente "Nuestra Escuela", 2017. 60 h.
+- *Aplicación del software Mathematica como recurso didáctico para la enseñanza del cálculo*. FCEQyN, UNaM, 2013. 50 h.
+- *Inducción y Combinatoria*. FCEQyN, UNaM, 2012. 80 h.
+- *Recursos informáticos para el análisis estadístico: análisis estadístico con InfoStat*. Facultad de Ciencias Económicas, UNaM, 2010. 24 h.
+
+**Con asistencia**
+
+- *Programación con Python*. Centro Redes, Unidad Asociada al CONICET, 2021. 60 h.
+- Cursos breves en la Reunión Anual de la Unión Matemática Argentina, 2020: *Piedra, papel y probabilidades*; *Criterios para el diseño de buenos problemas que incluyen el uso de TIC*; *Cómo repartir cuando no hay suficiente*; *El teorema de los grafos perfectos*; *Soluciones viscosas*; *Sobre la enseñanza de la interpretación de textos matemáticos*.
+- Cursos breves en la Reunión Anual de la Unión Matemática Argentina, UNL, 2015: *Introducción a la lógica algebraica*; *Análisis isogeométrico*; *Introducción a los problemas inversos*.
+- *¿Qué son los grupos cooperativos de aprendizaje?*. FCEQyN, UNaM, 2012.
+
+:::
+
+:::: {.nav-paginas}
+::: {.anterior}
+[← Experiencia laboral](experiencia.qmd)
+:::
+::: {.siguiente}
+[Seminarios e Investigación →](investigacion.qmd)
+:::
+::::

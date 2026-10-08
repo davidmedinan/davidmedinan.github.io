@@ -1,0 +1,38 @@
+---
+title: "Formación"
+---
+
+## Formación en curso
+
+**Maestría en Minería de Datos** · *Desde 08/2023*\
+Universidad Tecnológica Nacional, Facultad Regional Paraná (UTN-FRP). Entre Ríos, Argentina.\
+Área de investigación: Ganadería de Precisión.\
+Tema de tesis: Aprendizaje automático y profundo para estimar el consumo de materia seca en rumiantes a partir de señales bioacústicas.
+
+**Licenciatura en Matemática Aplicada** · *4.º año*\
+Facultad de Ingeniería Química, Universidad Nacional del Litoral (UNL). Santa Fe, Argentina.
+
+## Títulos obtenidos
+
+**Profesor en Matemática** · *08/2016*\
+Facultad de Ciencias Exactas, Químicas y Naturales, Universidad Nacional de Misiones (UNaM). Misiones, Argentina.
+
+**Técnico Superior en Electrotecnia** · *12/2002*\
+Colegio Politécnico Johannes Gutenberg. Asunción, Paraguay.
+
+## Postítulos
+
+**Diplomado Superior en Diversidad y Educación** · *12/2021*\
+Universidad de Ciencias Empresariales y Sociales (UCES). 600 horas reloj.
+
+**Diplomado Superior en Herramientas Didáctico-Pedagógicas para la implementación de las TIC en los procesos de enseñanza** · *12/2018*\
+Universidad de Ciencias Empresariales y Sociales (UCES). 600 horas reloj.
+
+:::: {.nav-paginas}
+::: {.anterior}
+[← Sobre mí](index.qmd)
+:::
+::: {.siguiente}
+[Experiencia laboral →](experiencia.qmd)
+:::
+::::

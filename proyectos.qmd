@@ -39,3 +39,9 @@ esquemas unificados y eficientes, con el objetivo de optimizar las consultas
 analíticas y la construcción de tableros de Business Intelligence.
 
 **Herramientas:** SQL, PostgreSQL, Apache Hop, Qlik Sense, Power BI, Tableau.
+
+:::: {.nav-paginas}
+::: {.anterior}
+[← Seminarios e Investigación](investigacion.qmd)
+:::
+::::

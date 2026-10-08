@@ -11,3 +11,34 @@ main p {
     text-align: left;
   }
 }
+
+/* Botones de navegación entre pestañas (al pie de cada página) */
+.nav-paginas {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(230, 237, 243, 0.2);
+}
+
+.nav-paginas p {
+  margin: 0;
+}
+
+.nav-paginas .siguiente {
+  margin-left: auto;
+}
+
+.nav-paginas a {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid #7cc4fa;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.nav-paginas a:hover {
+  background-color: #7cc4fa;
+  color: #0f1b2d;
+}

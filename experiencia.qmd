@@ -1,0 +1,62 @@
+---
+title: "Experiencia laboral"
+toc: true
+toc-title: "Secciones"
+---
+
+## Ciencia de datos
+
+**Especialista en Minería de Datos y Modelado Estadístico** · *Desde 09/2022*\
+Departamento de Estadística, Dirección General de Información y Evaluación Educativa.\
+Ministerio de Educación de la Provincia de Santa Fe.
+
+## Docencia universitaria
+
+**Auxiliar Docente de Primera (Dedicación Simple)** · *Desde 03/2023*\
+Departamento de Matemáticas, Facultad de Ingeniería Química, UNL.\
+Cátedras: Cálculo I, Cálculo II, Álgebra Lineal, Ciencias de Datos II.\
+Funciones: dictado de clases, elaboración y corrección de trabajos prácticos y examenes.
+
+**Ayudante de Segunda (por concurso)** · *10/2015 – 06/2017*\
+Cátedras Matemática I y Matemática II, para las carreras: Analista en Sistemas de Computación y Licenciatura en Sistemas de Información.\
+Facultad de Ciencias Exactas, Químicas y Naturales, UNaM.
+
+**Docente colaborador del Curso de Ingreso, área Matemática** · *2014, 2016 y 2017*\
+Facultad de Ciencias Exactas, Químicas y Naturales, UNaM.
+
+**Ayudante Adscripto Alumno** · *10/2013 – 05/2015*\
+Cátedras Álgebra Lineal (10/2013 – 10/2014), Análisis II (02/2014 – 02/2015) y Matemática/92 (05/2014 – 05/2015).\
+Facultad de Ciencias Exactas, Químicas y Naturales, UNaM.
+
+**Tutor Par (ad honorem)** · *06/2014 – 12/2014*\
+Profesorado en Matemática y Profesorado en Física, FCEQyN, UNaM.
+
+## Docencia en nivel secundario
+
+**Profesor Titular de la materia Matemática Aplicada** · *Desde 02/2024*\
+Escuela de Educación Técnico Profesional N.º 647 "Dr. Pedro L. Funes" (E.E.T.P. N.º 647). Santa Fe.
+
+**Profesor Titular de la materia Matemática** · *Desde 02/2024*\
+Escuela de Enseñanza Media para Adultos N.º 1305 (E.E.M.P.A. N.º 1305).\
+Escuela de Enseñanza Media para Adultos N.º 1300 (E.E.M.P.A. N.º 1300).
+
+**Profesor Interino de Matemática** · *03/2018 – 02/2023*\
+Escuelas secundarias de la Provincia de Santa Fe.
+
+## Otros antecedentes laborales
+
+**Técnico en Automatización Industrial** · *12/2002 – 10/2006*\
+Departamento de Montaje e Ingeniería, Tecno Electric S.A. Asunción, Paraguay.
+
+## Referencias
+
+Disponibles a pedido.
+
+:::: {.nav-paginas}
+::: {.anterior}
+[← Formación](formacion.qmd)
+:::
+::: {.siguiente}
+[Competencias →](competencias.qmd)
+:::
+::::

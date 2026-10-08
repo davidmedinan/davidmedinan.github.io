@@ -9,9 +9,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Inicio
-      - href: cv.qmd
-        text: CV
+        text: Sobre mí
+      - href: formacion.qmd
+        text: Formación
+      - href: experiencia.qmd
+        text: Experiencia laboral
+      - href: competencias.qmd
+        text: Competencias
+      - href: investigacion.qmd
+        text: Seminarios e Investigación
       - href: proyectos.qmd
         text: Proyectos
 

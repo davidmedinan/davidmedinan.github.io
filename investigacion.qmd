@@ -1,0 +1,73 @@
+---
+title: "Seminarios e Investigación"
+toc: true
+toc-title: "Secciones"
+---
+
+## Proyectos de investigación
+
+**Enseñanza y desarrollo curricular en la universidad. Investigación-acción de y en las prácticas educativas de implementación de la nueva propuesta pedagógica del área, en los Profesorados en Biología, Matemática y Física de la FCEQyN** · *01/2014 – 12/2016*\
+Proyecto 16Q552, FCEQyN, UNaM. Directora: Mgter. María Claudia Giménez.\
+Integrante: talleres, elaboración de informes, desgrabación de entrevistas y discusión de material teórico.
+
+**Misiones en la frontera con Paraguay y Brasil. Procesos de territorialización y educación en la construcción del Estado Nación** · *01/2013 – 12/2014*\
+Facultad de Humanidades y Ciencias Sociales, UNaM. Directora: Dra. Emilce Beatriz Cammaratta. Codirectora: Mgter. María Claudia Giménez.\
+Integrante: recolección de datos de campo y elaboración de estadísticas.
+
+## Becas
+
+**Beca de la Secretaría de Investigación y Posgrado. Auxiliar de Investigación (alumno)** · *11/2013 – 07/2014*\
+Proyecto 16Q499 "Diseño e implementación de GUIs orientado al cálculo, para Octave". Director: Estanislao Juan Petryla.\
+FCEQyN, UNaM. Obtenida por concurso de antecedentes, con dos renovaciones.
+
+## Extensión
+
+**Pensar la escuela, compartir reflexiones, construir sentidos** · *05/2015 – 12/2015*\
+Proyecto ganador de la convocatoria del Programa de Fortalecimiento a las Actividades de Extensión (PROFAE), UNaM.\
+Integrante del equipo. Directora: Mgter. María Claudia Giménez.
+
+## Publicaciones
+
+Medina N., D.; Ivaniszyn, B.; Von Knobloch, Y.; Oudín, M. (2015). *Constitución de un grupo de investigación acción participativa*. Resumen en *Libro de resúmenes de las IX Jornadas Científico-Tecnológicas, FCEQyN*, p. 387. Posadas, Misiones. ISBN 978-950-766-085-6.
+
+## Congresos y reuniones científicas
+
+### Exposiciones
+
+**Constitución de un grupo de investigación acción participativa** · *10/2015*\
+IX Jornadas Científico-Tecnológicas, FCEQyN, UNaM. Posadas, Misiones. Coautor y expositor.
+
+**Nuestro proceso grupal. La perspectiva de un grupo participante** · *08/2015*\
+VIII Encuentro Nacional del Colectivo Argentino de Educadoras y Educadores que hacen Investigación desde la Escuela. Universidad Nacional de Jujuy. Coautor y expositor.
+
+**Significación del constructivismo para los egresados del Profesorado en Matemática de la FCEQyN** · *08/2013*\
+Cuarto Encuentro Provincial y Segundo Encuentro Regional de Investigación Educativa, REDINE, FCEQyN, UNaM. Coautor y expositor.
+
+### Asistencia
+
+**2nd Latin American Congress on Industrial and Applied Mathematics (LACIAM 2026)** · *01/2026*\
+Universidad Técnica Federico Santa María. Valparaíso, Chile.
+
+**Reunión Anual de la Unión Matemática Argentina (virtual)** · *09/2020*\
+Unión Matemática Argentina.
+
+**1.º Congreso Internacional de Educación** · *06/2019*\
+Ministerio de Educación de la Provincia de Santa Fe.
+
+**3.º Congreso Nacional de Educación** · *09/2018*\
+Santa Fe, Argentina.
+
+**Reunión Anual de la Unión Matemática Argentina** · *09/2015*\
+Unión Matemática Argentina. Santa Fe, Argentina.
+
+**Cuarto Encuentro Provincial y Segundo Encuentro Regional de Investigación Educativa** · *08/2013*\
+REDINE, FCEQyN, UNaM. Estudiante colaborador.
+
+:::: {.nav-paginas}
+::: {.anterior}
+[← Competencias](competencias.qmd)
+:::
+::: {.siguiente}
+[Proyectos →](proyectos.qmd)
+:::
+::::
