@@ -3,7 +3,7 @@ title: "David I. Medina Núñez"
 subtitle: "Data Scientist · Profesor en Matemática"
 about:
   template: trestles
-  # image: foto.jpg        # descomentá esta línea si agregás una foto a la carpeta
+  image: foto.png        # descomentá esta línea si agregás una foto a la carpeta
   links:
     - icon: envelope
       text: Email
