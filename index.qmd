@@ -4,6 +4,8 @@ subtitle: "Data Scientist · Profesor en Matemática"
 about:
   template: trestles
   image: foto.png        # descomentá esta línea si agregás una foto a la carpeta
+  image-width: 14em
+  image-shape: rounded
   links:
     - icon: envelope
       text: Email
