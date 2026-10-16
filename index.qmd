@@ -13,6 +13,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/davidmedinan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dimn
     # - icon: linkedin
     #   text: LinkedIn
     #   href: https://www.linkedin.com/in/TU-USUARIO
